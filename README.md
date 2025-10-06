@@ -18,7 +18,7 @@ Develop a data-driven testing framework that maximizes conversion efficiency whi
 
 ---
 
-## 2. Data Setup & Tools
+## 2. 🛠️ Data Setup & Tools
 
 **Dataset:**  
 Paid search + display campaigns, including:
