@@ -1,7 +1,7 @@
 #  Case Study: Optimizing Search and Display ROI through Data-Driven Experimentation
 
 ** Target Role:** Performance Marketing Analyst, Agoda  
-**💡 Focus:** Scalable campaign optimization through data modeling and cross-channel experimentation
+** Focus:** Scalable campaign optimization through data modeling and cross-channel experimentation
 
 ---
 
@@ -64,7 +64,7 @@ Reallocated **20%** of generic keyword budget to **high-LTV segments** and launc
 
 ---
 
-### b.  Display Channel (Meta/Instagram Simulation)
+### b.  🖼️ Display Channel (Meta/Instagram Simulation)
 
 **Creative Tests:**  
 Video vs. Carousel vs. Static
@@ -82,7 +82,7 @@ Used **Tableau dashboard** to track spend efficiency and engagement.
 
 ---
 
-### c.  Modeling & Dashboard
+### c.  📈 Modeling & Dashboard
 
 **Python Model:**  
 Developed regression model linking:
@@ -96,7 +96,7 @@ Enabled marketing managers to:
 
 ---
 
-## 4. Results & Insights
+## 4. ✅ Results & Insights
 
 | Metric | Before | After Optimization | Improvement |
 |--------|---------|--------------------|-------------|
@@ -107,7 +107,7 @@ Enabled marketing managers to:
 
 ---
 
-## 5. Key Learnings
+## 5. ✏️ Key Learnings
 
 -  **Incrementality > short-term ROI:** High-ROAS segments aren’t always long-term profitable.  
 -  **Modeling insights** (ad fatigue, keyword intent value) are key for scaling.  
