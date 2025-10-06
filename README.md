@@ -1,7 +1,7 @@
 #  Case Study: Optimizing Search and Display ROI through Data-Driven Experimentation
 
-** Target Role:** Performance Marketing Analyst, Agoda  
-** Focus:** Scalable campaign optimization through data modeling and cross-channel experimentation
+** Target Role: ** Performance Marketing Analyst, Agoda  
+** Focus: ** Scalable campaign optimization through data modeling and cross-channel experimentation
 
 ---
 
